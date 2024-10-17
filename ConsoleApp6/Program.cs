@@ -107,6 +107,5 @@ class Program
         float multiply = operation.OperationOnNumbers(numOne, numTwo, (Operation.ArifmeticOperation)3);
         float devine = operation.OperationOnNumbers(numOne, numTwo, (Operation.ArifmeticOperation)4);
         System.Console.WriteLine($"Плюс {add} Минус {substract} Умножение {multiply} Деление {devine}");
-
     }
 }
